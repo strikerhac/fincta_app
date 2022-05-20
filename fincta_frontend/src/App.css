@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+button.fyZleJ {
+  box-shadow: none;
+  background-color: white;
+}
+button.loLNcS {
+  box-shadow: none;
+}
+button.iXJNZ {
+  color: #fff;
+  background-color: white;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+button.btlLVP {
+  color: #fff;
+  background-color: white;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+button.btlLVP:hover:enabled,
+button.btlLVP:focus:enabled {
+  color: #fff;
+  background-color: white;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.ant-menu-submenu-popup > .ant-menu {
+  background-color: #1f2833;
+}
+
+/* .ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  border: 1px solid white;
+  border-radius: 0 0 7px 7px;
+} */
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
